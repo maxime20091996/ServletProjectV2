@@ -34,5 +34,5 @@ CharacterEncoding
 
 QueryString
 
-Les réponses aux méthodes sont affchées sur le navigateur
+Les réponses aux méthodes sont affchées sur le lien cité ci-dessus
 
