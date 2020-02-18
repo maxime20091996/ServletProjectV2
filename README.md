@@ -10,4 +10,29 @@ Dans le dossier bin du serveur Tomcat lancer le startup.bat
 
 Dans un navigateur web saisir l'adresse suivante : http://localhost:8080/ServletHtmlProject/Accueil
 
-Les informations sont affichés sur la page du navigateur.
+Liste des méthodes HTTPRequest :
+
+ContextPath
+
+PathInfo
+
+LocalAddr
+
+Method
+
+ServerName
+
+RemoteHost
+
+RemoteUser
+
+LocalName
+
+Protocol
+
+CharacterEncoding
+
+QueryString
+
+Les réponses aux méthodes sont affchées sur le navigateur
+
